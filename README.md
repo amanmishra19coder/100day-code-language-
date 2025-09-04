@@ -7,4 +7,7 @@
 # day 14
 ## Write a program to print the sum of the first n odd numbers.
 ## Write a program to print the product of even numbers from 1 to n.
+# day 15 
+## Write a program to calculate the factorial of a number.
+## Write a program to reverse a given number.
 
