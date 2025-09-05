@@ -10,4 +10,6 @@
 # day 15 
 ## Write a program to calculate the factorial of a number.
 ## Write a program to reverse a given number.
-
+# day 16 
+## Write a program to take a number as input and print its equivalent binary representation.
+## Write a program to check if a number is a palindrome.
