@@ -15,33 +15,24 @@ Output 2:
 */
 #include <stdio.h>
 
+void toBinary(int n) {
+    if (n == 0)
+        return;
+    toBinary(n / 2);        // recursive call
+    printf("%d", n % 2);    // print remainder
+}
+
 int main() {
     int num;
-    int binary[32];  // to store binary digits
-    int i = 0;
-
-    // Input number
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    // Edge case: if number is 0
     if (num == 0) {
-        printf("0\n");
-        return 0;
+        printf("0");
+    } else {
+        toBinary(num);
     }
 
-    // Convert to binary
-    while (num > 0) {
-        binary[i] = num % 2;
-        num = num / 2;
-        i++;
-    }
-
-    // Print binary in reverse order
-    for (int j = i - 1; j >= 0; j--) {
-        printf("%d", binary[j]);
-    }
     printf("\n");
-
     return 0;
 }
