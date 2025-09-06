@@ -13,3 +13,7 @@
 # day 16 
 ## Write a program to take a number as input and print its equivalent binary representation.
 ## Write a program to check if a number is a palindrome.
+# day 17 
+## Q33 Write a program to check if a number is an Armstrong number.
+## Q34 Write a program to check if a number is prime.
+
