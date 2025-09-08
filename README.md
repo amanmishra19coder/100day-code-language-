@@ -16,4 +16,9 @@
 # day 17 
 ## Q33 Write a program to check if a number is an Armstrong number.
 ## Q34 Write a program to check if a number is prime.
-
+# day 18 
+## Write a program to print all factors of a given number.
+## Write a program to find the HCF (GCD) of two numbers.
+# day 19 
+## Write a program to find the LCM of two numbers.
+## Write a program to find the sum of digits of a number.
