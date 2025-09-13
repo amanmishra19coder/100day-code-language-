@@ -1,5 +1,4 @@
 // Q37: Write a program to find the LCM of two numbers.
-
 /*
 Sample Test Cases:
 Input 1:
@@ -14,17 +13,20 @@ Output 2:
 
 */ 
 
-#include <stdio.h>
+#include <stdio.h>   
 int main() {
-    int num1, num2, max;
+    int num1, num2, lcm, max;
     printf("Enter two positive integers: ");
     scanf("%d %d", &num1, &num2);
-    max = (num1 > num2) ? num1 : num2; // Start from the larger number
-    while (1) { 
-        if (max % num1 == 0 && max % num2 == 0) {
-            printf("LCM of %d and %d is %d\n", num1, num2, max);
-            break;
+    // LCM cannot be less than the greater numbernum2, lcm);
+    max = (num1 > num2) ? num1 : num2;
+    lcm = max; // Start checking from the maximum of the two numbers
+    while (1) {
+        if (lcm % num1 == 0 && lcm % num2 == 0) {
+            break; // Found the LCM
         }
-        max++;
+        lcm++; // Increment to check the next number
     }
+    printf("LCM of %d and %d is %d\n", num1, num2, lcm);    
     return 0;
+}
