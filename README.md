@@ -1,4 +1,4 @@
-# the 12 days code 
+c# the 12 days code 
 ## to find the fine in libary
 ## to find eletric bill amount
 # 13 day of code 
@@ -22,3 +22,45 @@
 # day 19 
 ## Write a program to find the LCM of two numbers.
 ## Write a program to find the sum of digits of a number.
+# day 20
+## Write a program to find the product of odd digits of a number.
+## Write a program to find the 1’s complement of a binary number and print it.
+# day21 
+## Write a program to swap the first and last digit of a number.
+## Write a program to check if a number is a perfect number.
+# day22
+## Write a program to check if a number is a strong number.
+## Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+# day23 
+## Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.
+## Write a program to print the following pattern:
+*****
+*****
+*****
+*****
+*****
+# day24
+## Write a program to print the following pattern:
+*
+**
+***
+****
+*****
+
+
+## Write a program to print the following pattern:
+1
+12
+123
+1234
+12345
+
+
+
+
+
+
+
+
+
+
