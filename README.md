@@ -80,6 +80,25 @@ c# the 12 days code
 ## 2345
 ## 12345
 
+## Write a program to print the following pattern:
+##
+## *
+##
+##*
+## *
+## *
+##
+## *
+## *
+## *
+## *
+## *
+##
+## *
+## *
+## *
+## 
+## *
 
 
 
