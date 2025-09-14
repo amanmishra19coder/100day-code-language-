@@ -34,26 +34,54 @@ c# the 12 days code
 # day23 
 ## Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.
 ## Write a program to print the following pattern:
-*****
-*****
-*****
-*****
-*****
+## *****
+## *****
+## *****
+## *****
+## *****
 # day24
 ## Write a program to print the following pattern:
-*
-**
-***
-****
-*****
+## *
+## **
+## ***
+## ****
+## *****
 
 
 ## Write a program to print the following pattern:
-1
-12
-123
-1234
-12345
+## 1
+## 12
+## 123
+## 1234
+## 12345
+
+# day 25 
+
+## Write a program to print the following pattern:
+## 5
+## 45
+## 345
+## 2345
+## 12345
+
+## Write a program to print the following pattern:
+## *****
+## ****
+## ***
+## **
+## *
+
+
+# day 26 
+## Write a program to print the following pattern:
+## 5
+## 45
+## 345
+## 2345
+## 12345
+
+
+
 
 
 
