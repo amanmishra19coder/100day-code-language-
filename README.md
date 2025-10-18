@@ -100,14 +100,93 @@ c# the 12 days code
 ## 
 ## *
 
+# DAY 27 
+## Q53: Write a program to print the following pattern:
+##***
+##*****
+##*******
+##*********
+##*******
+##*****
+##***
+##*
+## Write a program to print the following pattern:
 
+##   *
+##  ***
+## *****
+## *******
+## *****
+  ## ***
+   ## *
+   # DAY 28 
+ ## Q55 Write a program to print all the prime numbers from 1 to n.
+## Q56 Read and print elements of a one-dimensional array.
+# DAY 29 
+## Q57 Find the sum of array elements.
+## Q58 Find the maximum and minimum element in an array.
+# DAY 30
+## Q59 Count even and odd numbers in an array.
+## Q60  Count positive, negative, and zero elements in an array.
+# DAY 31 
+## Q61 Search for an element in an array using linear search.
+## Q62 Reverse an array without taking extra space.
+# DAY 32
+## Q 63 Merge two arrays.
+## Q64 Find the digit that occurs the most times in an integer number.
+# DAY 33 
+## Q65 Search in a sorted array using binary search.
+## Q66 Insert an element in a sorted array at the appropriate position.
+# DAY 34 
+## Q67 Insert an element in an array at a given position.
+## Q68 Delete an element from an array.
+# DAY 35 
+## Q69 Find the second largest element in an array.
+## Q70 Rotate an array to the right by k positions.
+# DAY 36 
+## Q71 Read and print a matrix.
+## Q72 Find the sum of all elements in a matrix.
+# DAY 37 
+## Q73 Find the sum of each row of a matrix and store it in an array.
+## Q74 Find the transpose of a matrix.
+# DAY 38 
+## Q75 Add two matrices. 
+## Q76 Check if a matrix is symmetric
+# DAY 39 
+## Q77  Check if the elements on the diagonal of a matrix are distinct.
+## Q78   Find the sum of main diagonal elements for a square matrix.
+# DAY 40 
+## Q79 Perform diagonal traversal of a matrix.
+## Q80 Multiply two matrices.
+# DAY 41 
+## Q81 Count characters in a string without using built-in length functions.
+## Q82 Print each character of a string on a new line.
+# DAY 42 
+## Q83 Count vowels and consonants in a string.
+## Q84 Convert a lowercase string to uppercase without using built-in functions.
+# DAY 43 
+## Q85 Reverse a string.
+## Q86 Check if a string is a palindrome.
+# DAY 44 
+## Q87 Count spaces, digits, and special characters in a string.
+## Q88 Replace spaces with hyphens in a string.
+# DAY 45 
+## Q89 Count frequency of a given character in a string.
+## Q90 Toggle case of each character in a string.
+# DAY 46 
+## Q91 Remove all vowels from a string.
+## Q92 Find the first repeating lowercase alphabet in a string.
+# DAY 47 
+## Q93 Check if two strings are anagrams of each other.
+## Q94 Find the longest word in a sentence.
+# DAY 48
+## Q95 Check if one string is a rotation of another.
+## Q96  Reverse each word in a sentence without changing the word order.
 
+# DAY 49 
+## Q97 Print the initials of a name.
+## Q98 Print initials of a name with the surname displayed in full.
 
-
-
-
-
-
-
-
-
+# DAY 50 
+## Q 99  Change the date format from dd/04/yyyy to dd-Apr-yyyy
+## Q100 Print all sub-strings of a string.
